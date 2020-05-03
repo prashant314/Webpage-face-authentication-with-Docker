@@ -6,7 +6,7 @@ The project presents a simple way to incorporate an extra layer of authenticatio
 ## Pre-requisites
 1. Docker installed.
 2. Centos Image for docker
-3. Docker image run with port forwarding on port number 9876.
+3. Python3
 
 The link for the docker image and the compose file will be updated soon.
 
